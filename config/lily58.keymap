@@ -66,8 +66,6 @@
 &kp LCTRL       &kp Z   &kp X   &kp C         &kp V         &kp B   &kp LBKT     &kp RBKT  &kp N          &kp M   &kp COMMA        &kp DOT  &kp FSLH  &kp BACKSLASH
                                 &kp LEFT_WIN  &kp LEFT_ALT  &mo 1   &kp SPACE    &kp RET   &kt BACKSPACE  &mo 2   &kp PRINTSCREEN
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         lower_layer {
