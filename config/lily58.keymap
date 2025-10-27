@@ -83,8 +83,6 @@
 &kp LCTRL       &kp HASH      &kp PERCENT   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp CAPSLOCK  &trans    &trans  &trans         &kp MINUS       &kp PLUS       &kp LBRC       &kp RBRC       &kp PIPE
                                             &kp LEFT_WIN          &kp LEFT_ALT           &trans        &trans    &trans  &kp BACKSPACE  &trans          &trans
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         raise_layer {
